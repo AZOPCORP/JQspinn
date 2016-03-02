@@ -40,6 +40,9 @@
                 case '7':
                     spin = ['◧', '◪', '◨', '◩'];
                     break;
+                case '8':
+                    spin=['◻','◼','◽','◾'];
+                    break;    
                 case '9':
                     spin = ['◰', '◱', '◲', '◳'];
                     break;
